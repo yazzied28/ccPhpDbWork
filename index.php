@@ -2,13 +2,13 @@
 
 $a=4;
 $b=25;
-$c=$a+$b
+$c=$a+$b;
 
-$d=$b-$a
+$d=$b-$a;
 
-echo $c;
+echo "a+b =" . $c;
 echo "<br>";
-echo $d;
+echo "b-a =" . $d;
 
 
 
